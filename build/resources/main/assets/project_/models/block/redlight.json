@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/redl",
+    "up": "project_:blocks/redl",
+    "north": "project_:blocks/redl",
+    "east": "project_:blocks/redl",
+    "south": "project_:blocks/redl",
+    "west": "project_:blocks/redl",
+    "particle": "project_:blocks/redl"
+  },
+  "render_type": "solid"
+}
