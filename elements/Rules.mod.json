@@ -1,0 +1,7 @@
+{
+  "_fv": 39,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">player_log_in</field><next><block type=\"world_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">Welcome to SquidCraft, Face the challenges presented to you to become the winner. Every map is designed to give you the best experience. Good Luck.</field></block></value><next><block type=\"wait\"><value name=\"ticks\"><block type=\"math_number\"><field name=\"NUM\">100</field></block></value><statement name=\"do\"><block type=\"world_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">Press the start block to choose gamemode.</field></block></value></block></statement></block></next></block></next></block></xml>"
+  }
+}

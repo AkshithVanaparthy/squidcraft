@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/realistic_water",
+    "up": "project_:blocks/realistic_water",
+    "north": "project_:blocks/realistic_water",
+    "east": "project_:blocks/realistic_water",
+    "south": "project_:blocks/realistic_water",
+    "west": "project_:blocks/realistic_water",
+    "particle": "project_:blocks/realistic_water"
+  },
+  "render_type": "solid"
+}

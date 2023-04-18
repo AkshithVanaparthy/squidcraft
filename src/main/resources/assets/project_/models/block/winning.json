@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/win",
+    "up": "project_:blocks/win",
+    "north": "project_:blocks/win",
+    "east": "project_:blocks/win",
+    "south": "project_:blocks/win",
+    "west": "project_:blocks/win",
+    "particle": "project_:blocks/win"
+  },
+  "render_type": "solid"
+}

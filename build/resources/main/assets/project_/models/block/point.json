@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/point",
+    "up": "project_:blocks/point",
+    "north": "project_:blocks/point",
+    "east": "project_:blocks/point",
+    "south": "project_:blocks/point",
+    "west": "project_:blocks/point",
+    "particle": "project_:blocks/point"
+  },
+  "render_type": "solid"
+}

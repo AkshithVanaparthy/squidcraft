@@ -1,9 +1,63 @@
 {
-  "bg": {
+  "lava": {
     "category": "master",
     "sounds": [
       {
-        "name": "project_:untitled",
+        "name": "project_:lava",
+        "stream": false
+      }
+    ]
+  },
+  "redlight": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:1",
+        "stream": false
+      }
+    ]
+  },
+  "glass": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:2",
+        "stream": false
+      }
+    ]
+  },
+  "hill": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:3",
+        "stream": false
+      }
+    ]
+  },
+  "tag": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:4",
+        "stream": false
+      }
+    ]
+  },
+  "lightout": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:5",
+        "stream": false
+      }
+    ]
+  },
+  "park": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "project_:7",
         "stream": false
       }
     ]

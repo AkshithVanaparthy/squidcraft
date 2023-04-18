@@ -49,7 +49,6 @@ public class RisingBlock extends Block {
 		int x = pos.getX();
 		int y = pos.getY();
 		int z = pos.getZ();
-
 		RisingUpdateTickProcedure.execute(world, x, y, z);
 		world.scheduleTick(pos, this, 5);
 	}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/eas",
+    "up": "project_:blocks/eas",
+    "north": "project_:blocks/eas",
+    "east": "project_:blocks/eas",
+    "south": "project_:blocks/eas",
+    "west": "project_:blocks/eas",
+    "particle": "project_:blocks/eas"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/redlight",
+    "up": "project_:blocks/redlight",
+    "north": "project_:blocks/redlight",
+    "east": "project_:blocks/redlight",
+    "south": "project_:blocks/redlight",
+    "west": "project_:blocks/redlight",
+    "particle": "project_:blocks/redlight"
+  },
+  "render_type": "solid"
+}

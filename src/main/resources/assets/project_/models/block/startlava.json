@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/lavastart",
+    "up": "project_:blocks/lavastart",
+    "north": "project_:blocks/lavastart",
+    "east": "project_:blocks/lavastart",
+    "south": "project_:blocks/lavastart",
+    "west": "project_:blocks/lavastart",
+    "particle": "project_:blocks/lavastart"
+  },
+  "render_type": "solid"
+}

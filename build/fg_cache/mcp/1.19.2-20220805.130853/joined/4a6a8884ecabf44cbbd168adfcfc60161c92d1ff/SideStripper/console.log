@@ -1,0 +1,9 @@
+JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--strip", "--input", "C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\AccessTransformer\output.jar", "--output", "C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\SideStripper\output.jar", "--data", "C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\SideStripper\string_data.sas"
+Classpath:   C:\Users\AKSHITH\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-fatjar.jar
+Working Dir: C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\AccessTransformer\output.jar
+Output: C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\SideStripper\output.jar
+Data:   C:\Users\AKSHITH\Documents\mining\build\fg_cache\mcp\1.19.2-20220805.130853\joined\4a6a8884ecabf44cbbd168adfcfc60161c92d1ff\SideStripper\string_data.sas

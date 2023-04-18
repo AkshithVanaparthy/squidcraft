@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "project_:blocks/walk",
+    "up": "project_:blocks/walk",
+    "north": "project_:blocks/walk",
+    "east": "project_:blocks/walk",
+    "south": "project_:blocks/walk",
+    "west": "project_:blocks/walk",
+    "particle": "project_:blocks/walk"
+  },
+  "render_type": "solid"
+}

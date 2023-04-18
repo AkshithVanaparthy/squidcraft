@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "project_:blocks/lavar",
-    "particle": "project_:blocks/lavar"
+    "all": "project_:blocks/la",
+    "particle": "project_:blocks/la"
   },
   "render_type": "solid"
 }
